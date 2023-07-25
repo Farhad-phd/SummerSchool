@@ -14,4 +14,16 @@
 5.  I feel like we need more detailed talk about what is right, what is legal and should we go beyond legal and focuse on pure goodness?
 
 
-## DNN
+## DNN:
+
+### Speaker: 
+ 
+### Notes: 
+- D_tr = (x,y)
+- Goal is to learn function f such that f(x) is accurate as possible
+- Generalizations 
+- Simple DNN stuff.
+
+### Slides: 
+
+### MyQ:
